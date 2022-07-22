@@ -6,6 +6,6 @@ This is jenkins CICD pipeline configuring by chandru
 
 How are you Bharathi
 
-Auto trigger by SCM!
+What are you doing now. 
 </pre>
 </html>
