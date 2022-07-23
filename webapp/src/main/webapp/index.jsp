@@ -4,7 +4,7 @@ Hello world
 
 This is jenkins CICD pipeline configuring by chandru
 
-CICD auto trigger Test
+CICD auto trigger Test!
 
 </pre>
 </html>
